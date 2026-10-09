@@ -1,0 +1,16 @@
+.DS_Store
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+dist/
+build/
+*.egg-info/
+coverage/
+*.o
+*.a
+*.d
+*.dSYM/
+/labirinto
+/testes
+/quadros/
